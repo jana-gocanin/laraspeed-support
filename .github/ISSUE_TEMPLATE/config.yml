@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://laraspeed.dev/docs
+    about: Check the docs before opening an issue
+  - name: Email Support (Pro & Team)
+    url: mailto:support@laraspeed.dev
+    about: Priority support for Pro and Team customers
